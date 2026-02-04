@@ -1,6 +1,6 @@
 ---
 title: Smart Text Assistant
-emoji: �
+emoji: 📝
 colorFrom: purple
 colorTo: blue
 sdk: gradio
@@ -150,3 +150,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note:** First run may take 2-3 minutes to load AI models. Subsequent runs are much faster!
+
